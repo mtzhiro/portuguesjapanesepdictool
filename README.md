@@ -1,0 +1,3 @@
+# portuguesjapanesepdictool
+# portuguesjapanesepdictool
+# portuguesjapanesepdictool
