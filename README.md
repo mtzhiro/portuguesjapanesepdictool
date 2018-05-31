@@ -17,3 +17,7 @@
  zero a zero /love all.",0,0,0,""
  "0/SUUJINOKUMIAWASE","cifra"," sf： 1 cipher, cypher. 2 naught, zero. 3 figure. 4 code.",0,0,0,""
  "KAJIRUKOTO","trincada","",0,0,0,""
+
+Ref
+portuguesjapanesepdictool
+https://docs.google.com/spreadsheets/d/1F9kH9TLKqHw4c9fM2zyIza812YQxl-KLDYzSwQymJFk
