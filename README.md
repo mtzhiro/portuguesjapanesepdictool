@@ -21,3 +21,6 @@
 Ref
 portuguesjapanesepdictool
 https://docs.google.com/spreadsheets/d/1F9kH9TLKqHw4c9fM2zyIza812YQxl-KLDYzSwQymJFk
+日本語五十音表(にほんごごじゅうおんひょう) 　ローマ字（じ）ひらがな・カタカナ・漢字（かんじ）からの成（な）り立（た）ち
+  CC BY 3.0 mas3.info
+http://mas3.info/2018/05/japanese50ontablekanji
