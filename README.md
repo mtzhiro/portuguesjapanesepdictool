@@ -1,5 +1,6 @@
 # portuguesjapanesepdictool
-ローマ字日本語、ポルトガル後、変換などを目指すプロジェクトです。
+ローマ字日本語、ポルトガル語、変換などを目指すプロジェクトです。
+Project make Romaji-Nihongo - Portuguese dictionary conversion
   -- mtzhiro 
 
 # 辞書
@@ -7,16 +8,15 @@
 ## PDIC　CSV　サンプル utf16le-bom
 
  word,trans,exp,level,memory,modify,pron,filelink
- "０","quilate métrco,zero"," sm ：zero: a) a cipher, the O-shaped algarism. b) the point on a scale from which positive or negative quantities are reckoned. c) in the Celsius and Reaumur thermometers it is the point at which water congeals. d) a nobody, an insignificant person. 
- ele é um zero na sociedade / he is a nobody in society. 
- e) null, nought, nil. 
- acima (abaixo) de zero / above (below) zero. 
- começar do zero /to start from scratch. 
- no ponto zero /down at zero. 
- zero à esquerda /a nobody, a person who is utterly insignificant. 
- zero a zero /love all.",0,0,0,""
- "0/SUUJINOKUMIAWASE","cifra"," sf： 1 cipher, cypher. 2 naught, zero. 3 figure. 4 code.",0,0,0,""
- "KAJIRUKOTO","trincada","",0,0,0,""
+"Kashikoi/Utsukushiimono","fino"," adj :1 thin, slim, slender. 2 graceful, elegant. 3 delicate, gentle. 4 pure, fine. 5 excellent, superior, refined, exquisite. 6 polite, courteous, well-bred. 
+a fina forca> by mere force. 
+ela e muito fina >she is very refined. 
+fino como uma cobra >sly as a snake. 
+um tanto >fino thinnish",0,0,0,""
+"Kashikokunaru","criar inteligencia,ter lume no olho","",0,0,0,""
+"Kashikosa","agudeza","",0,0,0,""
+"Kenjin","sabio"," sm ：wise man.
+  adj ：(sup abs sint sapientissimo) wise.",0,0,0,""
 
 Ref
 portuguesjapanesepdictool
